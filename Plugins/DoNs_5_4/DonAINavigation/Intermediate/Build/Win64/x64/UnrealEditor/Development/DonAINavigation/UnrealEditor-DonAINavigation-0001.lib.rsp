@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DonAINavigation-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Perforce\grpprj26\Dev\VoiceOfTheOcean\Intermediate\Build\Win64\x64\VoiceOfTheOceanEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Perforce\grpprj26\Dev\VoiceOfTheOcean\Plugins\DoNs_5_4\DonAINavigation\Intermediate\Build\Win64\x64\UnrealEditor\Development\DonAINavigation\Module.DonAINavigation.cpp.obj"
+"C:\Perforce\grpprj26\Dev\VoiceOfTheOcean\Plugins\DoNs_5_4\DonAINavigation\Intermediate\Build\Win64\x64\UnrealEditor\Development\DonAINavigation\Default.rc2.res"
+/OUT:"C:\Perforce\grpprj26\Dev\VoiceOfTheOcean\Plugins\DoNs_5_4\DonAINavigation\Intermediate\Build\Win64\x64\UnrealEditor\Development\DonAINavigation\UnrealEditor-DonAINavigation-0001.lib"
